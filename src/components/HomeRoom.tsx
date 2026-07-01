@@ -115,7 +115,7 @@ export default function HomeRoom({ onNavigate, girlIllustration }: HomeRoomProps
 
             {/* Tape/Labels overlays */}
             <div className="absolute bottom-6 right-6 bg-[#FAF6F0]/90 px-3 py-1 rounded-md text-[10px] font-serif tracking-widest text-[#8A7171] border border-white shadow-sm">
-              MY DIGITAL ME
+              @mysl.cmrell
             </div>
             <div className="absolute top-6 left-6 rotate-[-5deg] bg-yellow-50/90 px-3 py-1 rounded-sm text-[10px] font-handwritten text-[#9C7F5F] border border-yellow-100 shadow-sm">
               holding white lilies ✿
