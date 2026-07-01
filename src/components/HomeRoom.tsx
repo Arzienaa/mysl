@@ -84,7 +84,7 @@ export default function HomeRoom({ onNavigate, girlIllustration }: HomeRoomProps
             <div className="text-xs font-serif text-[#8A7171] tracking-wider leading-relaxed">
               <p>📍 INDONESIA</p>
               <p>🎂 08 MAY 2008</p>
-              <p>🦢 COZY WORLD</p>
+              <p>🦢 Cozy World</p>
             </div>
           </div>
         </div>
